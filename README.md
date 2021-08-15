@@ -7,6 +7,8 @@
 
 The entire circuit was designed and simulated on the LT Spice software.
 
+NOTE: For further details on the technical aspects of the project, kindly refer to the Ciruit diagram and simulation results.
+
 The ciruit mainly consists of 3 secrions:
 
 1. **Twin-T Notch Filter:** 
@@ -36,6 +38,3 @@ The amplification is done using a U309 JFET. This particular JFET was chosen bec
 Block Diagram:
 
 ![image](https://user-images.githubusercontent.com/69978515/129464257-7ae0e39d-fee2-4e9a-b124-2f1e27220524.png)
-
-NOTE: For further details on the technical aspects of the project, kindly refer to the Ciruit diagram and simulation results.
-
